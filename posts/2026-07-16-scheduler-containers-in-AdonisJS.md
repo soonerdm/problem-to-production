@@ -41,3 +41,5 @@ Used a seperate containers for the scheduler and the actual app so that if it ne
 
 ## Lessons Learned
 
+- prune unused containers 
+- run seperate containers so they can be stopped withpout iterupting the actual app
